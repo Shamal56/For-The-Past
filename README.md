@@ -1,4 +1,4 @@
-![Alt text](SS/Lab.png.png)
+![Lab Image](SS/Lab.png.png)
 
 **For the Past** is a third-person narrative exploration and survival game built with Unreal Engine 5. Set in a desolate future, you play as a scientist trapped in time, uncovering humanity's mysterious extinction while trying to fix a broken time machine and prevent disaster.
 
